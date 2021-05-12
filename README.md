@@ -1,6 +1,6 @@
 # neon-syntax.vim
 
-NEON syntax, indent, and file detection support for vim.
+[NEON](https://ne-on.org/) syntax, indent, and file detection support for vim.
 
 Taken from [fpob/nette.vim](https://github.com/fpob/nette.vim).
 
