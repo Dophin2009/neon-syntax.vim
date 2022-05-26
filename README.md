@@ -10,10 +10,10 @@ Use your preferred package manager:
 
 ``` shell
 # vim-plug
-Plug 'Dophin2009/neon-syntax.vim'
+Plug 'mirryi/neon-syntax.vim'
 ```
 
 ``` lua
 -- packer.nvim
-use {'Dophin2009/neon-syntax.vim'}
+use {'mirryi/neon-syntax.vim'}
 ```
